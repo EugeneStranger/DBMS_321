@@ -55,6 +55,30 @@
           <AssociatedConnUserName />
           <FullPath>SQLQueryHW4 - SELECT Directions with Disciplines.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQueryHW5 - SELECT COUNT Students with Directions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-N0FJVOR\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-N0FJVOR\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQueryHW5 - SELECT COUNT Students with Directions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQueryHW6 - SELECT COUNT Students in Groups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-N0FJVOR\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-N0FJVOR\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQueryHW6 - SELECT COUNT Students in Groups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQueryHW7 - SELECT COUNT Disciplnes with Teachers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-N0FJVOR\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-N0FJVOR\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQueryHW7 - SELECT COUNT Disciplnes with Teachers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQueryHW8 - INSERT Schedule.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-N0FJVOR\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-N0FJVOR\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQueryHW8 - INSERT Schedule.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
