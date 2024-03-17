@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SQL Server Scripts1", "SQL Server Scripts1\SQL Server Scripts1.ssmssqlproj", "{CDA6783D-6C85-40CF-922E-2F50160F6A8C}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "DML\DML.ssmssqlproj", "{0A23594C-B7DE-42E2-B3FD-91DC57BB10B0}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "SELECT", "SELECT\SELECT.ssmssqlproj", "{201AB4B4-4F78-427A-93A4-7B8F095BF345}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA6783D-6C85-40CF-922E-2F50160F6A8C}.Default|Default.ActiveCfg = Default
+		{0A23594C-B7DE-42E2-B3FD-91DC57BB10B0}.Default|Default.ActiveCfg = Default
+		{641B3FDA-9189-478C-AE94-8FED78774246}.Default|Default.ActiveCfg = Default
+		{201AB4B4-4F78-427A-93A4-7B8F095BF345}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35179202-AB18-47E2-8D13-5DA23EB5C622}
+	EndGlobalSection
+EndGlobal
